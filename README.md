@@ -234,7 +234,7 @@ SyncCode NextGen explores a unified model:
 │                        CLIENT LAYER                           │
 │                                                               │
 │ React + Vite                                                  │
-│ Monaco Editor • File Explorer • File Tabs • AI Panels        │
+│ Monaco Editor • File Explorer • File Tabs • AI Panels         │
 │ Output Console • Version History • Collaboration UI           │
 └──────────────────────────────┬────────────────────────────────┘
                                │
@@ -245,8 +245,8 @@ SyncCode NextGen explores a unified model:
 │                    COLLABORATION LAYER                        │
 │                                                               │
 │ Socket.IO                                                     │
-│ Room Join / Leave • Code Changes • File Events               │
-│ Presence • Cursors • Terminal Output • Recovery Updates      │
+│ Room Join / Leave • Code Changes • File Events                │
+│ Presence • Cursors • Terminal Output • Recovery Updates       │
 └──────────────────────────────┬────────────────────────────────┘
                                │
                                ▼
@@ -255,7 +255,7 @@ SyncCode NextGen explores a unified model:
 │                                                               │
 │ Node.js + Express                                             │
 │ Controllers • Routes • Middleware • Services                  │
-│ JWT Authentication • Validation • Project APIs               │
+│ JWT Authentication • Validation • Project APIs                │
 └───────────────┬───────────────────────────────┬───────────────┘
                 │                               │
                 ▼                               ▼
@@ -273,7 +273,7 @@ SyncCode NextGen explores a unified model:
 ┌───────────────────────────────────────────────────────────────┐
 │                  SECURITY / RECOVERY LAYER                    │
 │                                                               │
-│ JWT • Password Hashing • Encryption • Recovery Snapshots     │
+│ JWT • Password Hashing • Encryption • Recovery Snapshots      │
 │ Local Encrypted Backup • Room Security • Validation           │
 └───────────────────────────────────────────────────────────────┘
 ```
